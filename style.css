@@ -1,0 +1,35 @@
+.parent{
+ text-align:center;
+ margin:0 auto;
+}
+
+.button {
+  border-radius:5px;
+  border: solid 1px;
+  text-align:center;
+  cursor:pointer;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.box{
+  display: inline-block;
+　vertical-align: middle;
+  width:150px;
+  height:150px;
+}
+
+.box2{
+  position: absolute;
+  display: inline-block;
+　vertical-align: middle;
+  width:70px;
+}
+
+.box3{
+  display: inline-block;
+　vertical-align: middle;
+  width:60px;
+}
